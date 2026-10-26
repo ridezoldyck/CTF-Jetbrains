@@ -1,0 +1,1 @@
+This is a portfolio write-up based on a CyberDefenders training lab. The original PCAP is not included. Before publishing screenshots or other challenge artifacts, confirm that redistribution is permitted by the platform's terms. Sensitive regions have been redacted in included copies.

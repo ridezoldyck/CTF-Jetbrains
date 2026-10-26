@@ -1,0 +1,10 @@
+type,value,context
+IPv4,23.158.56.196,Observed source of suspicious HTTP requests
+IPv4,172.31.25.119,Destination shown in relevant packets
+URI,/hax?jsp=/app/rest/server;.jsp,Server version endpoint manipulation
+URI,/hax?jsp=/app/rest/users;.jsp,User endpoint manipulation
+URI,/admin/pluginUpload.html,Plugin upload endpoint
+filename,NSt8bHTg.zip,Uploaded archive
+webshell,/plugins/NSt8bHTg/NSt8bHTg.jsp,JSP command execution endpoint
+file_path,/tmp/Creds.txt,File targeted by shell command
+CVE,CVE-2024-27198,Correlated vulnerability

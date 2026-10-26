@@ -1,0 +1,7 @@
+# Do not commit raw captures or secrets
+*.pcap
+*.pcapng
+.env
+secrets*
+credentials*
+tokens*
